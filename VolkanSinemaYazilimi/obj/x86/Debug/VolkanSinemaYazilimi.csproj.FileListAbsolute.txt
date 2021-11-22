@@ -1,0 +1,7 @@
+D:\acik_lise\VolkanSinemaYazilimi\VolkanSinemaYazilimi\bin\Debug\VolkanSinemaYazilimi.exe
+D:\acik_lise\VolkanSinemaYazilimi\VolkanSinemaYazilimi\bin\Debug\VolkanSinemaYazilimi.pdb
+D:\acik_lise\VolkanSinemaYazilimi\VolkanSinemaYazilimi\obj\x86\Debug\VolkanSinemaYazilimi.Form1.resources
+D:\acik_lise\VolkanSinemaYazilimi\VolkanSinemaYazilimi\obj\x86\Debug\VolkanSinemaYazilimi.Properties.Resources.resources
+D:\acik_lise\VolkanSinemaYazilimi\VolkanSinemaYazilimi\obj\x86\Debug\VolkanSinemaYazilimi.csproj.GenerateResource.Cache
+D:\acik_lise\VolkanSinemaYazilimi\VolkanSinemaYazilimi\obj\x86\Debug\VolkanSinemaYazilimi.exe
+D:\acik_lise\VolkanSinemaYazilimi\VolkanSinemaYazilimi\obj\x86\Debug\VolkanSinemaYazilimi.pdb
